@@ -13,7 +13,7 @@ Both the `DISCORD_TOKEN` and the `DELETE_AFTER_SECONDS` durations should be in .
 It is recommended that you run the project in a virtual environment
 
 ```bash
-git clone https://codeberg.org/alli/deleter.git
+git clone https://github.com/allisonnixon/deleter.git
 
 cd deleter
 python3 -m venv venv
